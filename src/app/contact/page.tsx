@@ -26,7 +26,7 @@ export default function ContactPage() {
               Contact <span className="text-yellow-400">Us</span>
             </h1>
             <p className="text-xl text-gray-200">
-              1 Get in touch and start your martial arts journey today
+              Get in touch and start your martial arts journey today
             </p>
           </div>
         </div>
